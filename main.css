@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    background:red;
+    font-family:impact;
+}
+
+a{
+    color:white;
+}
+header{
+    background:black;
+    margin:0;
+    padding:7px;
+}
+p{
+    background:black;
+    color:white;
+    padding: 13px;
+}
+nav ul{
+    margin: 2;
+    display: inline;
+}
+
+nav ul li{
+    background:red;
+    list-style-type: none;
+    display: inline-block;
+    padding:3px;
+    margin:0;   
+}
+
+header hl{
+    color:red;
+}
+header nav{
+    display:inline;
+}
